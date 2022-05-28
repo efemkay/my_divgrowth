@@ -1,3 +1,3 @@
-## compiling
+## Compiling
 
 Note 1
